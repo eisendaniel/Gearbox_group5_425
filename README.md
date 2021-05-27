@@ -23,4 +23,8 @@ a = (N1 + N2)m/2
 
 a = distance (centres)
 Nx = number of teeth
-m = module
+m = module  
+
+  
+## Parts:
+Bearings: - https://www.mcmaster.com/bearings/ball-bearings/ball-bearings-8/for-shaft-diameter~6mm/
