@@ -30,5 +30,5 @@ m = module
   
 ## Parts:
 Bearings: - https://www.mcmaster.com/bearings/ball-bearings/ball-bearings-8/for-shaft-diameter~6mm/
-2x L:100mm, R:6mm silver steel shaft
-1x L:150mm, R:6mm silver steel shaft
+L:{1x50mm, 1x100mm, 1x150mm}, R:6mm silver steel shaft
+20x M3x10 machine bolts and nuts
